@@ -1,0 +1,77 @@
+[
+  {
+    "id": "01",
+    "question": "What did Joey buy for Chandler because they're best friends?",
+    "options": ["pizza", "framed picture of a chimp", "watch", "bracelet"],
+    "answer": "watch"
+  },
+  {
+    "id": "02",
+    "question": "What address does Chandler give Janis to write to?",
+    "options": [
+      "46 Central Park Road, New York",
+      "15, Yemen Road, Yemen",
+      "16 Pennsylvania Avenue",
+      "64 Maddison Square Gardens"
+    ],
+    "answer": "15, Yemen Road, Yemen"
+  },
+  {
+    "id": "03",
+    "question": "Where do Rachel and Ross go on their first date?",
+    "options": [
+      "Cinema",
+      "Ross's Museum",
+      "Central Perk",
+      "The Empire State Building"
+    ],
+    "answer": "Ross's Museum"
+  },
+  {
+    "id": "04",
+    "question": "What's the first thing Ross says at the beginning of the opening episode?",
+    "options": [
+      "Has anyone seen my fossil collection?",
+      "How YOU doin'?",
+      "Coul I be wearing any more clothes?",
+      "Hi..."
+    ],
+    "answer": "Hi..."
+  },
+  {
+    "id": "05",
+    "question": "What is the name of Joey’s acting agent?",
+    "options": ["Andrea", "Estelle", "Martha", "Carole"],
+    "answer": "Estelle"
+  },
+  {
+    "id": "06",
+    "question": "Which job did Rachel’s fiancé Barry Farber do?",
+    "options": ["Lawyer", "Plumber", "Orthodondist", "Journalist"],
+    "answer": "Orthodondist"
+  },
+  {
+    "id": "07",
+    "question": "Phoebe dated a scientist called David. In which Belarus city did he work?",
+    "options": ["Minsk", "Grodno", "Mogilev", "Pinsk"],
+    "answer": "Minsk"
+  },
+  {
+    "id": "08",
+    "question": "Phoebe has a twin sister. What's her name?",
+    "options": ["Scarlett", "Ursula", "Sharon", "Rita"],
+    "answer": "Ursula"
+  },
+  {
+    "id": "09",
+    "question": "In which city is Friends set?",
+    "options": ["Los Angeles", "New York City", "Miami", "Seattle"],
+    "answer": "New York City"
+  },
+  {
+    "id": "10",
+    "question": "What does Joey never share?",
+    "options": ["Books", "Information", "Food", "DVDs"],
+    "answer": "Food"
+  }
+]
